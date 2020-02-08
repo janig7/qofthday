@@ -14,7 +14,6 @@ int main( int argc, char const *argv[])
         "Write it on your heart that every day is the best day in the year.\r\n",
         "Do not pray for an easy life, pray for the strength to endure a difficult one.\r\n",
         "Everything in moderation, including moderation.\r\n",
-        "Naucz sie pisac kod chuju ~ Jakub Polak\r\n"
     };
    int listener_d = socket(PF_INET, SOCK_STREAM, 0); //creating socket
 
